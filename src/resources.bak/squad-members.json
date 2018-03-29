@@ -1,0 +1,74 @@
+[
+    {
+        "id": "005-00001",
+        "name": "Soldier",
+        "cost": 30,
+        "stats": {
+            "move": 10,
+            "fight": 50,
+            "shoot": 30,
+            "armour": 30,
+            "morale": 60,
+            "health": 60
+        },
+        "type": [
+            "ground",
+            "gunner"
+        ],
+        "description": "The soldier carries a mid range assault rifle."
+    },
+    {
+        "id": "005-00002",
+        "name": "Medic",
+        "cost": 50,
+        "stats": {
+            "move": 10,
+            "fight": 50,
+            "shoot": 30,
+            "armour": 15,
+            "morale": 60,
+            "health": 60
+        },
+        "type": [
+            "ground",
+            "healer"
+        ],
+        "description": "The medic is equipied with a full healing kit. It cannot hurt the enemy."
+    },
+    {
+        "id": "005-00003",
+        "name": "Demoman",
+        "cost": 50,
+        "stats": {
+            "move": 10,
+            "fight": 50,
+            "shoot": 30,
+            "armour": 300,
+            "morale": 60,
+            "health": 600
+        },
+        "type": [
+            "ground",
+            "bomber"
+        ],
+        "description": "The demoman is an expert on explosives. Ka-Boom."
+    },
+    {
+        "id": "005-00004",
+        "name": "Spoiled Kid",
+        "cost": 5000000,
+        "stats": {
+            "move": 1,
+            "fight": 1,
+            "shoot": 1,
+            "armour": 1,
+            "morale": 1,
+            "health": 1
+        },
+        "type": [
+            "kid",
+            "dick"
+        ],
+        "description": "Agghghghg, got no words."
+    }
+]

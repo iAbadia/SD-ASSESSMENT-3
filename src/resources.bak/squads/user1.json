@@ -1,0 +1,254 @@
+[
+    {
+        "hierophant": {
+            "name": "Priest",
+            "stats": {
+                "shoot": 30,
+                "armour": 300,
+                "move": 10,
+                "fight": 50,
+                "morale": 60,
+                "health": 600
+            },
+            "uid": "09404448f6654703ac234f1d542198d4",
+            "skills": [
+                "007-01001"
+            ],
+            "items": [
+                {
+                    "id": "004-00001",
+                    "uid": "b4dea62aded64e0fa3597cd0b2dc5d7a",
+                    "name": "Baton of Destiny",
+                    "cost": 3000,
+                    "value": 200,
+                    "type": [
+                        "baton",
+                        "legendary"
+                    ],
+                    "description": "This baton belonged to the ultimate Destiny Priest."
+                }
+            ],
+            "xp": 500,
+            "id": "007-00001"
+        },
+        "uid": "1f3b187ca90344d383b486a7ebdb355c",
+        "roster": [
+            {
+                "name": "This guy 1",
+                "main": true,
+                "stats": {
+                    "shoot": 30,
+                    "armour": 15,
+                    "move": 10,
+                    "fight": 50,
+                    "morale": 60,
+                    "health": 60
+                },
+                "uid": "95e3a72d910044b7963310c367690713",
+                "id": "005-00002"
+            },
+            {
+                "name": "This guy 2",
+                "main": false,
+                "stats": {
+                    "shoot": 30,
+                    "armour": 300,
+                    "move": 10,
+                    "fight": 50,
+                    "morale": 60,
+                    "health": 600
+                },
+                "uid": "38236396aa10476194ae42e8b0422eaa",
+                "id": "005-00003"
+            }
+        ],
+        "stash": [
+            {
+                "id": "001-00001",
+                "uid": "34a871cb3dc84d7b9a47ab8b3a0e1639",
+                "name": "Power potion",
+                "cost": 10,
+                "type": [
+                    "heal",
+                    "potion"
+                ],
+                "value": 20,
+                "description": "Restore 20 HP."
+            },
+            {
+                "id": "002-00002",
+                "uid": "4d1d5df6159a47289765e323d11957cc",
+                "name": "Bow of Mordor",
+                "cost": 230,
+                "value": 25,
+                "type": [
+                    "bow",
+                    "longbow",
+                    "elf-weapon"
+                ],
+                "description": "The legend says that it belonged to the mighty Legolas."
+            }
+        ],
+        "credits": 2001,
+        "private": false,
+        "owner": "user1",
+        "captain": {
+            "name":"Warlord",
+            "stats": {
+                "shoot": 30,
+                "armour": 300,
+                "move": 10,
+                "fight": 50,
+                "morale": 60,
+                "health": 600
+            },
+            "uid": "aed2cbfcaa9f4400b236f055787ffbe2",
+            "skills": [
+                "006-01001"
+            ],
+            "items": [
+                {
+                    "id": "002-00001",
+                    "uid": "c396d77a888445eaa51bcb445dce432c",
+                    "name": "Sword of Destiny",
+                    "cost": 3000,
+                    "value": 200,
+                    "type": [
+                        "sword",
+                        "legendary"
+                    ],
+                    "description": "This sword belonged to the ultimate Destiny Samurai."
+                }
+            ],
+            "xp": 300,
+            "id": "006-00001"
+        },
+        "name": "Squad 1 from User 1"
+    },
+    {
+        "hierophant": {
+            "name": "Priest",
+            "stats": {
+                "shoot": 30,
+                "armour": 300,
+                "move": 10,
+                "fight": 50,
+                "morale": 60,
+                "health": 600
+            },
+            "uid": "612d731802da4cdc8640e4435ef6cb9e",
+            "skills": [
+                "007-01001"
+            ],
+            "items": [
+                {
+                    "id": "004-00001",
+                    "uid": "13c15d6bfd9e4dce878771be1baa4ccc",
+                    "name": "Baton of Destiny",
+                    "cost": 3000,
+                    "value": 200,
+                    "type": [
+                        "baton",
+                        "legendary"
+                    ],
+                    "description": "This baton belonged to the ultimate Destiny Priest."
+                }
+            ],
+            "xp": 500,
+            "id": "007-00001"
+        },
+        "uid": "7911ceb9f0f546c2b49bff6a8bd7044d",
+        "roster": [
+            {
+                "name": "This guy 3",
+                "main": true,
+                "stats": {
+                    "shoot": 30,
+                    "armour": 30,
+                    "move": 10,
+                    "fight": 50,
+                    "morale": 60,
+                    "health": 60
+                },
+                "uid": "db8082380f1347bda36b6f6323a1048f",
+                "id": "005-00001"
+            },
+            {
+                "name": "This guy 4",
+                "main": false,
+                "stats": {
+                    "shoot": 30,
+                    "armour": 300,
+                    "move": 10,
+                    "fight": 50,
+                    "morale": 60,
+                    "health": 600
+                },
+                "uid": "536fef2ee4104c3d893c079ed89beffc",
+                "id": "005-00003"
+            }
+        ],
+        "private": true,
+        "credits": 5000,
+        "stash": [
+            {
+                "id": "001-00001",
+                "uid": "b24889c9424541218c5645be02ca660c",
+                "name": "Power potion",
+                "cost": 10,
+                "type": [
+                    "heal",
+                    "potion"
+                ],
+                "value": 20,
+                "description": "Restore 20 HP."
+            },
+            {
+                "id": "002-00002",
+                "uid": "62e346a47c384a87b3fe5f3390f548a9",
+                "name": "Bow of Mordor",
+                "cost": 230,
+                "value": 25,
+                "type": [
+                    "bow",
+                    "longbow",
+                    "elf-weapon"
+                ],
+                "description": "The legend says that it belonged to the mighty Legolas."
+            }
+        ],
+        "owner": "user1",
+        "captain": {
+            "name":"Warlord",
+            "stats": {
+                "shoot": 30,
+                "armour": 300,
+                "move": 10,
+                "fight": 50,
+                "morale": 60,
+                "health": 600
+            },
+            "uid": "91ebb8f098c34539b09f3393571737d5",
+            "skills": [
+                "006-01001"
+            ],
+            "items": [
+                {
+                    "id": "002-00001",
+                    "uid": "90d851fd9e394d1fa723f08fd5fc1524",
+                    "name": "Sword of Destiny",
+                    "cost": 3000,
+                    "value": 200,
+                    "type": [
+                        "sword",
+                        "legendary"
+                    ],
+                    "description": "This sword belonged to the ultimate Destiny Samurai."
+                }
+            ],
+            "xp": 300,
+            "id": "006-00001"
+        },
+        "name": "Squad 2 from User 1"
+    }
+]

@@ -1,0 +1,25 @@
+gantt
+    title SD Skirmish game
+    dateFormat  YYYY-MM-DD
+
+    section Setup
+    Environment setup    :env-setup, 2018-03-15, 1d
+    PyJs setup:                 :pyjs-setup,after imp-net, 2d
+
+    section Implementation
+    Container classes      :imp-class, 2018-03-16 , 2018-03-22
+    Persistence      :imp-pers, after imp-class, 3d
+    Network: imp-net, after imp-pers, 10d
+    UI layout: imp-ui, 2018-04-07, 10d 
+
+    section Art
+    Assets design: 2018-03-15, 2d
+    Graphics design: gph-des, 2018-04-17, 15d
+    Sound effects desing: snd-des after gph-des, 10d
+
+    section Documentation
+    Game tutorial: 2018-05-02, 5d
+
+    section Public testing
+    closed beta: cl-beta, 2018-05-08, 15d
+    open beta: after cl-beta, 15d

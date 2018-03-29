@@ -1,0 +1,103 @@
+{
+    "captain": {
+        "items": [
+            {
+                "id": "001-00001",
+                "name": "Power potion",
+                "cost": 10,
+                "type": [
+                    "heal",
+                    "potion"
+                ],
+                "value": 20,
+                "description": "Restore 20 HP."
+            },
+            {
+                "id": "001-00002",
+                "name": "Poison",
+                "cost": 30,
+                "type": [
+                    "dmg",
+                    "throwable"
+                ],
+                "value": 50,
+                "description": "Thro it at an enemy to hurt 50 HP damage."
+            }
+        ],
+        "weapons": [
+            {
+                "id": "002-00001",
+                "name": "Sword of Destiny",
+                "cost": 3000,
+                "value": 200,
+                "type": [
+                    "sword",
+                    "legendary"
+                ],
+                "description": "This sword belonged to the ultimate Destiny Samurai."
+            },
+            {
+                "id": "002-00002",
+                "name": "Bow of Mordor",
+                "cost": 230,
+                "value": 25,
+                "type": [
+                    "bow",
+                    "longbow",
+                    "elf-weapon"
+                ],
+                "description": "The legend says that it belonged to the mighty Legolas."
+            }
+        ]
+    },
+    "hierophant": {
+        "items": [
+            {
+                "id": "003-00001",
+                "name": "Mana potion",
+                "cost": 5,
+                "type": [
+                    "mana",
+                    "potion"
+                ],
+                "value": 20,
+                "description": "Restore 20 Mana points."
+            },
+            {
+                "id": "003-00002",
+                "name": "Ghost in a bottle",
+                "cost": 30,
+                "type": [
+                    "dmg",
+                    "throwable"
+                ],
+                "value": 60,
+                "description": "Throw it at an enemy to hurt 60 HP damage."
+            }
+        ],
+        "weapons": [
+            {
+                "id": "004-00001",
+                "name": "Baton of Destiny",
+                "cost": 3000,
+                "value": 200,
+                "type": [
+                    "baton",
+                    "legendary"
+                ],
+                "description": "This baton belonged to the ultimate Destiny Priest."
+            },
+            {
+                "id": "004-00002",
+                "name": "Rare apple stem",
+                "cost": 500,
+                "value": 60,
+                "type": [
+                    "baton",
+                    "elemental-weapon"
+                ],
+                "description": "The legend says that it belonged to the mighty Ent leader."
+            }
+        ]
+    }
+}

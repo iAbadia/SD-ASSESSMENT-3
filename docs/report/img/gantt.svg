@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="mermaid-1522340914623" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 1371.3 422.6" style="enable-background:new 0 0 1371.3 422.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{opacity:0.3;}
+	.st2{fill:none;stroke:#000000;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:12.2606px;}
+	.st5{opacity:0.2;enable-background:new    ;}
+	.st6{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st7{opacity:0.2;fill:#FFF400;enable-background:new    ;}
+	.st8{fill:#8A90DD;stroke:#534FBC;stroke-width:2;}
+	.st9{font-size:13.4866px;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#333333;}
+	.st12{font-family:'Arial-BoldMT';}
+	.st13{font-size:22.069px;}
+</style>
+<g transform="translate(75, 338)">
+	<path class="st0" d="M17.6-306.8V65.3H1251v-372.1"/>
+	<g transform="translate(36.5,0)" class="st1">
+		<line class="st2" x1="25.2" y1="64.7" x2="25.2" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 -6.1528 80.6318)" class="st3 st4">2018-03-18</text>
+	</g>
+	<g transform="translate(120.5,0)" class="st1">
+		<line class="st2" x1="44.2" y1="64.7" x2="44.2" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 12.8359 80.6318)" class="st3 st4">2018-03-25</text>
+	</g>
+	<g transform="translate(203.5,0)" class="st1">
+		<line class="st2" x1="63" y1="64.7" x2="63" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 31.5986 80.6318)" class="st3 st4">2018-04-01</text>
+	</g>
+	<g transform="translate(287.5,0)" class="st1">
+		<line class="st2" x1="81.9" y1="64.7" x2="81.9" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 50.5869 80.6318)" class="st3 st4">2018-04-08</text>
+	</g>
+	<g transform="translate(371.5,0)" class="st1">
+		<line class="st2" x1="100.9" y1="64.7" x2="100.9" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 69.5757 80.6318)" class="st3 st4">2018-04-15</text>
+	</g>
+	<g transform="translate(455.5,0)" class="st1">
+		<line class="st2" x1="119.9" y1="64.7" x2="119.9" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 88.5645 80.6318)" class="st3 st4">2018-04-22</text>
+	</g>
+	<g transform="translate(539.5,0)" class="st1">
+		<line class="st2" x1="138.9" y1="64.7" x2="138.9" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 107.5527 80.6318)" class="st3 st4">2018-04-29</text>
+	</g>
+	<g transform="translate(623.5,0)" class="st1">
+		<line class="st2" x1="157.9" y1="64.7" x2="157.9" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 126.542 80.6318)" class="st3 st4">2018-05-06</text>
+	</g>
+	<g transform="translate(706.5,0)" class="st1">
+		<line class="st2" x1="176.7" y1="64.7" x2="176.7" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 145.3037 80.6318)" class="st3 st4">2018-05-13</text>
+	</g>
+	<g transform="translate(790.5,0)" class="st1">
+		<line class="st2" x1="195.7" y1="64.7" x2="195.7" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 164.293 80.6318)" class="st3 st4">2018-05-20</text>
+	</g>
+	<g transform="translate(874.5,0)" class="st1">
+		<line class="st2" x1="214.6" y1="64.7" x2="214.6" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 183.2813 80.6318)" class="st3 st4">2018-05-27</text>
+	</g>
+	<g transform="translate(958.5,0)" class="st1">
+		<line class="st2" x1="233.6" y1="64.7" x2="233.6" y2="-306.8"/>
+		<text transform="matrix(1 0 0 1 202.2705 80.6318)" class="st3 st4">2018-06-03</text>
+	</g>
+</g>
+<g>
+	<rect y="47.1" class="st5" width="1371.3" height="29.4"/>
+	<rect y="76.6" class="st5" width="1371.3" height="29.4"/>
+	<rect y="106" class="st6" width="1371.3" height="29.4"/>
+	<rect y="135.4" class="st6" width="1371.3" height="29.4"/>
+	<rect y="164.8" class="st6" width="1371.3" height="29.4"/>
+	<rect y="194.3" class="st6" width="1371.3" height="29.4"/>
+	<rect y="223.7" class="st7" width="1371.3" height="29.4"/>
+	<rect y="253.1" class="st7" width="1371.3" height="29.4"/>
+	<rect y="282.5" class="st7" width="1371.3" height="29.4"/>
+	<rect y="312" class="st6" width="1371.3" height="29.4"/>
+	<rect y="341.4" class="st5" width="1371.3" height="29.4"/>
+	<rect y="370.8" class="st5" width="1371.3" height="29.4"/>
+</g>
+<g>
+	<path class="st8" d="M95.6,49.6h7.4c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7h-7.4c-2,0-3.7-1.6-3.7-3.7V53.3
+		C92,51.2,93.6,49.6,95.6,49.6z"/>
+	<path class="st8" d="M388.7,79h22.1c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7h-22.1c-2,0-3.7-1.6-3.7-3.7V82.7
+		C385,80.7,386.6,79,388.7,79z"/>
+	<path class="st8" d="M110.3,108.4h80.9c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7h-80.9c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C106.7,110.1,108.3,108.4,110.3,108.4z"/>
+	<path class="st8" d="M198.6,137.9h36.8c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7h-36.8c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C194.9,139.5,196.6,137.9,198.6,137.9z"/>
+	<path class="st8" d="M242.8,167.3h138.5c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7H242.8c-2,0-3.7-1.6-3.7-3.7V171
+		C239.1,168.9,240.7,167.3,242.8,167.3z"/>
+	<path class="st8" d="M432.8,196.7h139.8c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7H432.8c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C429.1,198.4,430.8,196.7,432.8,196.7z"/>
+	<path class="st8" d="M95.6,226.1h22.1c2,0,3.7,1.6,3.7,3.7V247c0,2-1.6,3.7-3.7,3.7H95.6c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C92,227.8,93.6,226.1,95.6,226.1z"/>
+	<path class="st8" d="M579.9,255.6h213.3c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7H579.9c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C576.2,257.2,577.9,255.6,579.9,255.6z"/>
+	<path class="st8" d="M311.4,285h139.8c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7H311.4c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C307.7,286.6,309.4,285,311.4,285z"/>
+	<path class="st8" d="M800.6,314.4h66.2c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7h-66.2c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C796.9,316.1,798.6,314.4,800.6,314.4z"/>
+	<path class="st8" d="M888.9,343.8H1101c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7H888.9c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C885.2,345.5,886.9,343.8,888.9,343.8z"/>
+	<path class="st8" d="M1108.4,373.3h213.3c2,0,3.7,1.6,3.7,3.7v17.2c0,2-1.6,3.7-3.7,3.7h-213.3c-2,0-3.7-1.6-3.7-3.7v-17.2
+		C1104.7,374.9,1106.3,373.3,1108.4,373.3z"/>
+	<text transform="matrix(1 0 0 1 112.7969 66.1416)" class="st3 st9">Environment setup</text>
+	<text transform="matrix(1 0 0 1 420.5366 95.5664)" class="st3 st9">PyJs setup</text>
+	<text transform="matrix(1 0 0 1 201.0728 124.9922)" class="st3 st9">Container classes</text>
+	<text transform="matrix(1 0 0 1 245.2109 154.417)" class="st3 st9">Persistence</text>
+	<text transform="matrix(1 0 0 1 287.2998 183.8428)" class="st10 st3 st9">Network</text>
+	<text transform="matrix(1 0 0 1 476.0713 213.2676)" class="st10 st3 st9">UI layout</text>
+	<text transform="matrix(1 0 0 1 127.5098 242.6934)" class="st3 st9">Assets design</text>
+	<text transform="matrix(1 0 0 1 637.8633 272.1182)" class="st10 st3 st9">Graphics design</text>
+	<text transform="matrix(1 0 0 1 318.4434 301.5439)" class="st10 st3 st9">Sound effects desing</text>
+	<text transform="matrix(1 0 0 1 876.6289 330.9697)" class="st3 st9">Game tutorial</text>
+	<text transform="matrix(1 0 0 1 960.4531 360.3945)" class="st10 st3 st9">closed beta</text>
+	<text transform="matrix(1 0 0 1 1185.0215 389.8193)" class="st10 st3 st9">open beta</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 12.2603 79.0146)" class="st11 st12 st9">Setup</text>
+	<text transform="matrix(1 0 0 1 12.2603 167.291)" class="st11 st12 st9">Implementation</text>
+	<text transform="matrix(1 0 0 1 12.2603 270.2793)" class="st11 st12 st9">Art</text>
+	<text transform="matrix(1 0 0 1 12.2603 329.1299)" class="st11 st12 st9">Documentation</text>
+	<text transform="matrix(1 0 0 1 12.2603 373.2686)" class="st11 st12 st9">Public testing</text>
+</g>
+<text transform="matrix(1 0 0 1 617.2964 18.9385)" class="st3 st13">SD Skirmish game</text>
+</svg>
